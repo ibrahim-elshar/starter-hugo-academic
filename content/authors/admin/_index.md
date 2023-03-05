@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Pittsburgh
+    url: https://www.pitt.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
