@@ -1,7 +1,7 @@
 ---
 title: Ibrahim El Shar
 role: Machine Learning Scientist
-avatar_filename: ibrahimpitt2022.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
